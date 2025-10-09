@@ -1,0 +1,40 @@
+# 🛒 Carrinho de Compras
+
+Projeto desenvolvido para praticar **lógica de programação** com **JavaScript**.
+
+## 🚀 Funcionalidades
+
+- Adicionar produtos com nome, quantidade e valor.
+- Calcular o total automaticamente.
+- Limpar o carrinho.
+- Atualização dinâmica dos valores na tela.
+
+## 🧠 Conceitos praticados
+
+- Manipulação do DOM (document.getElementById)
+- Funções e variáveis em JavaScript
+- Operações matemáticas
+- Estrutura de controle e eventos
+
+## 🗂️ Estrutura do projeto
+## 💻 Como usar
+
+1. Abra o arquivo `index.html` no navegador.
+2. Preencha o nome do produto, quantidade e valor.
+3. Clique em **Adicionar** para inserir no carrinho.
+4. O total será atualizado automaticamente.
+5. Use **Limpar** para reiniciar o carrinho.
+
+## 🧑‍💻 Tecnologias utilizadas
+
+- HTML
+- CSS (opcional)
+- JavaScript
+
+## 📸 Exemplo de uso
+
+*(adicione aqui uma imagem do seu projeto, se quiser)*
+
+## 📝 Licença
+
+Este projeto é apenas para fins de estudo e prática de lógica de programação.
