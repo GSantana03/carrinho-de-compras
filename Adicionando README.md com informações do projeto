@@ -1,40 +1,43 @@
 # 🛒 Carrinho de Compras
 
-Projeto desenvolvido para praticar **lógica de programação** com **JavaScript**.
+Bem-vindo(a) ao **Carrinho de Compras**, um projeto desenvolvido para praticar **lógica de programação**, **manipulação do DOM** e **operações matemáticas com JavaScript**.  
+Este projeto simula um sistema simples de e-commerce, onde o usuário pode adicionar produtos, calcular o total e limpar o carrinho de forma interativa.
 
-## 🚀 Funcionalidades
+---
 
-- Adicionar produtos com nome, quantidade e valor.
-- Calcular o total automaticamente.
-- Limpar o carrinho.
-- Atualização dinâmica dos valores na tela.
+## 🌐 Acesse o Projeto Online
 
-## 🧠 Conceitos praticados
+🔗 **Projeto hospedado no GitHub Pages:**  
+👉 [https://gsantana03.github.io/carrinho-de-compras/](https://gsantana03.github.io/carrinho-de-compras/)
 
-- Manipulação do DOM (document.getElementById)
-- Funções e variáveis em JavaScript
-- Operações matemáticas
-- Estrutura de controle e eventos
+💡 *Clique no link acima para visualizar o projeto funcionando em tempo real.*
 
-## 🗂️ Estrutura do projeto
-## 💻 Como usar
+---
 
-1. Abra o arquivo `index.html` no navegador.
-2. Preencha o nome do produto, quantidade e valor.
-3. Clique em **Adicionar** para inserir no carrinho.
-4. O total será atualizado automaticamente.
-5. Use **Limpar** para reiniciar o carrinho.
+## 💡 Funcionalidades
 
-## 🧑‍💻 Tecnologias utilizadas
+✅ Adicionar produtos com nome, quantidade e valor  
+✅ Calcular o total automaticamente  
+✅ Remover produtos do carrinho  
+✅ Limpar todos os itens  
+✅ Atualização dinâmica das informações exibidas na tela  
 
-- HTML
-- CSS (opcional)
-- JavaScript
+---
 
-## 📸 Exemplo de uso
+## 🧠 Conceitos Praticados
 
-*(adicione aqui uma imagem do seu projeto, se quiser)*
+- Manipulação do **DOM** com `document.getElementById()`  
+- Uso de **funções e variáveis** no **JavaScript (ES6)**  
+- Estruturas de **condição e repetição**  
+- Operações **matemáticas e lógicas**  
+- Estruturação semântica com **HTML5**  
+- Estilização e layout com **CSS3**
 
-## 📝 Licença
+---
 
-Este projeto é apenas para fins de estudo e prática de lógica de programação.
+## 🧩 Estrutura do Projeto
+📁 carrinho-de-compras
+┣ 📜 index.html
+┣ 📜 style.css
+┣ 📜 script.js
+┗ 📜 README.md
