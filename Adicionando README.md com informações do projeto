@@ -1,43 +1,43 @@
 # 🛒 Carrinho de Compras
 
-Bem-vindo(a) ao **Carrinho de Compras**, um projeto desenvolvido para praticar **lógica de programação**, **manipulação do DOM** e **operações matemáticas com JavaScript**.  
-Este projeto simula um sistema simples de e-commerce, onde o usuário pode adicionar produtos, calcular o total e limpar o carrinho de forma interativa.
+Este é um projeto simples e funcional de **Carrinho de Compras**, desenvolvido com **HTML, CSS e JavaScript puro**, com o objetivo de praticar manipulação do DOM e lógica de programação.  
+
+## 💡 Sobre o Projeto
+
+O usuário pode:
+- Adicionar produtos com nome, quantidade e valor;
+- Calcular automaticamente o subtotal e o total geral;
+- Limpar a lista de produtos com apenas um clique.
+
+Este projeto foi feito com foco em **praticar lógica e interatividade com JavaScript**.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (DOM e funções)  
 
 ---
 
 ## 🌐 Acesse o Projeto Online
 
-🔗 **Projeto hospedado no GitHub Pages:**  
-👉 [https://gsantana03.github.io/carrinho-de-compras/](https://gsantana03.github.io/carrinho-de-compras/)
-
-💡 *Clique no link acima para visualizar o projeto funcionando em tempo real.*
+🔗 [Clique aqui para ver o projeto rodando no GitHub Pages](https://gsantana03.github.io/carrinho-de-compras/)
 
 ---
 
-## 💡 Funcionalidades
+## 🧠 Aprendizados
 
-✅ Adicionar produtos com nome, quantidade e valor  
-✅ Calcular o total automaticamente  
-✅ Remover produtos do carrinho  
-✅ Limpar todos os itens  
-✅ Atualização dinâmica das informações exibidas na tela  
-
----
-
-## 🧠 Conceitos Praticados
-
-- Manipulação do **DOM** com `document.getElementById()`  
-- Uso de **funções e variáveis** no **JavaScript (ES6)**  
-- Estruturas de **condição e repetição**  
-- Operações **matemáticas e lógicas**  
-- Estruturação semântica com **HTML5**  
-- Estilização e layout com **CSS3**
+Durante o desenvolvimento, aprendi a:
+- Manipular elementos HTML com JavaScript;
+- Usar funções para atualizar valores em tempo real;
+- Organizar o código em funções limpas e reutilizáveis.
 
 ---
 
-## 🧩 Estrutura do Projeto
-📁 carrinho-de-compras
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 script.js
-┗ 📜 README.md
+## 🖥️ Como Rodar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/GSantana03/carrinho-de-compras.git
